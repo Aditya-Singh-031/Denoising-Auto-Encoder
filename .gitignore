@@ -1,0 +1,7 @@
+CIFAR-10\ dataset/cifar-10-data
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore virtual environment
+venv/
